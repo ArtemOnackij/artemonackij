@@ -1,4 +1,4 @@
-# Hi, I'm Artem 👋
+# Hi, I'm Artem 
 
 Junior Data Analyst from Ukraine
 
@@ -24,4 +24,4 @@ LinkedIn:
 (https://www.linkedin.com/in/artem-onatskyi-baa7b6377/)
 
 Email:
-(artemonackij@gmail.com) Hi there 👋
+(artemonackij@gmail.com)
