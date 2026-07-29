@@ -17,6 +17,7 @@ Currently learning:
 
 - PostgreSQL
 - Power BI
+- Python
 
 ## Connect with me
 
